@@ -1,4 +1,4 @@
-![4 2 naveen_page-0001](https://github.com/naveenraja2004/EX-No.4.2.-CUT-SECTION-OF-SOLIDS/assets/118707204/de602948-052b-4336-a5c0-ea22ad7b6736)# EX No.4.2. CUT SECTION OF SOLIDS
+# EX No.4.2. CUT SECTION OF SOLIDS
 ## DATE:
 
 ## AIM: 
